@@ -1,5 +1,5 @@
-variable "rg" {
-  default = "rhazao-rg"
+variable "name" {
+  default = "rhazao"
 }
 
 variable "location" {
